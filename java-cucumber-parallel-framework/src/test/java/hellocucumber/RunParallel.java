@@ -13,5 +13,6 @@ public class RunParallel extends AbstractTestNGCucumberTests {
 	@DataProvider(parallel = true)
 	public Object[][] scenarios() {
 		return super.scenarios();
+		//comment
 	}
 }
