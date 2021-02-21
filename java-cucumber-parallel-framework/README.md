@@ -1,10 +1,10 @@
+# Framework Stack
+
+Cucumber, Selenium, Ready API, Maven, JUnit, ExtentReports
+
 # Cucumber Scenarios in Parallel
 
-This project contains a sample code for TestProject's Article
-
-## License
-
-This project is licensed under the MIT License - see [here](https://mit-license.org/) for details
+This project contains a sample code testing purposes
 
 ## Author
-Giridhar Rajkumar
+Bryan Copeland
